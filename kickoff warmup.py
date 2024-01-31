@@ -1,4 +1,5 @@
-# orprop ropigvroinv eopffjeponvv poejmvpom
-# rovpnnroivn eopnvreoinv
+"written as a string data type (quotation marks) = this is my answer/response..."
+"strings use quotation marks"
 
-"odifnoeinf wopefjeoip"
+# written as a comment =  this is my response/asnwer...
+# comments use the hashtag
