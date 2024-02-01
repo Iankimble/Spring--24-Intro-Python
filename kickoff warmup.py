@@ -1,5 +1,8 @@
-"written as a string data type (quotation marks) = this is my answer/response..."
-"strings use quotation marks"
+answer= input('did you sumbit your code? ')
+if answer== 'y':
+    print('good job, have a great day.') 
+else:
+    print("submit work before you go. ")
 
-# written as a comment =  this is my response/asnwer...
-# comments use the hashtag
+integer= 100
+float= 100.00
