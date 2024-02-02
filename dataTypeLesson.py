@@ -1,21 +1,11 @@
-# Dataypes 
+# functions are just instructions that do a job. 
 
-value ='Ian'
+# take in user data.
+name= input('what is your name: ')
+age= input("what is your age: ")
+location= input("where do you live: ")
 
-# input - takes in data from a user.
-# input()
-
-# print - outputs data from your program. 
-# print()
-
-# variables are placeholders/ containers for data (datatypes)
-# Instructor = 'Ian Kimble'
-
-favoriteFood = input('What is your favorite food? ')
-
-print('Your favorite food is '+ favoriteFood )
-
-
-
-
-
+# puts out data. 
+print(name)
+print(age)
+print(location)

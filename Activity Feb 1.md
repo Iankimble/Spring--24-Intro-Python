@@ -10,23 +10,12 @@ link: <mark>https://www.youtube.com/watch?v=LKFrQXaoSMQ&t=1s</mark>
 <b>Questions</b>
 
 1. In your own words describe what a variable is?
+place holder/ container for values= data
 
 2. What is the difference between a float and an integer?
-interger = 
-100
-20
-304
-
-float =
-1.23
-4.67
-100.23
 
 3. In your own words, describe what the boolean data type is?
-true / false
  
- isItRaining = 
-
 4. Create four (4) variables and use the appropriate data type for each. 
  - 1 variable for you full name.
  - 1 variable for your age.
