@@ -1,0 +1,11 @@
+1. Provide an example of abstraction, 
+that was not said in class. 
+
+2. What is the difference between and an integer
+and a float
+
+3. What is a variable in Python and how are variables 
+used to abstract data?
+
+4. Describe a situation where a you would use a
+boolean data type in your program?
