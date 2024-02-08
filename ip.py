@@ -1,6 +1,6 @@
 # Daily Warmup
 
-# Create a new file called activityFeb8.py
+# Create a new file called activityFeb7.py
 # and answer the following questions
 
 # 1. In your own words, what is a computer program?
