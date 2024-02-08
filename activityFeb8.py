@@ -23,8 +23,8 @@
 # Your program needs to verify two (2) things; if the user is a member of the gym, AND
 # if the user has the gold membership tier, which allows the user to have access to the swimming pool.
 # What your client would like to happen is that when a user is a member AND 
-# and also has the gold membership they should be able to use the pool.
-# Which python operator would you use in this situation? Explain why
+#  also has the gold membership they should be able to use the pool.
+# Which python operator would you use in this situation? Explain why.
 
 # 6. You have been hired as a software engineer to develop a simple payment system for a companys 
 # webstore. Your assignment is to create a cart system where the prices of all 
@@ -37,6 +37,3 @@
 # match, they cannot enter.
 # Which python operator would you use in this situation? Explain why
  
-
- 
-
