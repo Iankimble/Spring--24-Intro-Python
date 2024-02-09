@@ -1,3 +1,6 @@
+# Create a new file called activityFeb9.py and complete
+# the following questions.
+
 #1. Use W3Schools.com and research and use the
 # following Built-in Functions, including the print()
 # and input() to create the following code blocks. 
