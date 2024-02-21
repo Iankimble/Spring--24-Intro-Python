@@ -1,6 +1,6 @@
 # Wednesday, Febuary 21st, Async Work
 
-## Create a new file called feb21async.py, then watch the following videos and respond to the following questions.
+## Create a new file called feb21async.py, copy the questions from this document into your new document,  then watch the following videos and respond to the following questions.
 
 - You may work with your classmates to discuss and answer the questions. 
 - Your responses must be written in complete sentences. 
