@@ -12,7 +12,7 @@ def goodAfternoon():
 # 2. function call- tells the program 
 # to run/execute our function instructions.
     
-goodAfternoon()
+#goodAfternoon()
 
 # Function Parameters and Arguments- external data
 # passed into a function. 
@@ -47,5 +47,49 @@ def jobSearch_bySalary(desiredSalary):
     print(f'here are jobs that pay {desiredSalary}')
     salary_120k()
     
-jobSearch_bySalary('120,000')
+#jobSearch_bySalary('120,000')
 
+
+
+
+
+# Create a function that will inform a user 
+# if the weather is hot or cold based on a argument 
+# passed into it. In your function, if the temperature 
+# is over 75.00 return to the user it is hot outside 
+# and if it is below 70 it is cold. If it is neither
+# above 75 but not below 70 return a message saying
+# the weather is perfect. 
+def weather_system(temp):
+    if temp > 75:
+        print('it is hot outside.')
+    elif temp <70:
+        print('it is cold outside.')
+    else:
+        print('the weather is perfect.')  
+weather_system(76)
+
+
+
+
+
+#def weather_info(temperature):
+ #   if temperature> 75.00:
+  #      return 
+
+
+
+
+
+
+#def weatherSystem(hot, cold):
+ #   if weather = cold: 
+  #      print('the weather outside is cold.')
+   # if weather >= 75:
+    #    print('it is hot outside.')
+
+#weatherSystem()
+
+#def weather(hot,cold)
+ #   if temp >= 75
+  #  (print it is hot outside):
