@@ -21,8 +21,8 @@
 # a scholarship function. The client would like to provide 
 # students a scholarship to their school based on the following
 # conditions; 
-# - If the user has never gotten a loan before and,
-#-  if the user has never been to college before.
+#- If the user has never gotten a loan before and,
+#- If the user has never been to college before.
 # The client would like you to use the logical NOT operator that will
 # compare the condtions and return false. If the result is false, the client
 # would also like the program to print the message "congrats! you've gotten the scholarship."

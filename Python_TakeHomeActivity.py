@@ -76,6 +76,11 @@ def unknownFunction_B(data1, data2):
     else:
         print(" Error: somthing went wrong. Try again")
 
+
+# Create a Txt file called ProgrammingQuestions.txt and respond
+# to the following questions. Please write your responses in complete
+# sentences. When you are done, commit and sync your work to github.
+        
 # Programming Questions
 # How do you think technology has influenced and
 # shaped how you learn in school? Do you think it's
