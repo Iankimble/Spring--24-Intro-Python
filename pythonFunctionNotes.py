@@ -60,6 +60,9 @@ def jobSearch_bySalary(desiredSalary):
 # and if it is below 70 it is cold. If it is neither
 # above 75 but not below 70 return a message saying
 # the weather is perfect. 
+
+
+# this function is for determing the weather based on a argument value.
 def weather_system(temp):
     if temp > 75:
         print('it is hot outside.')
