@@ -29,3 +29,8 @@
 # the client has given you the choice on how to enter data for your function.
 # you may enter data using input or pass in data into your function as parameters. 
 
+data= input('Ian')
+data2= 1000
+data3 = True
+data4 = 'Ian Kimble' 
+
