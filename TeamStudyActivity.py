@@ -8,6 +8,7 @@
 
 # be sure to write down clues and keywords as you solve the problems to get full credit.
 # be sure to use your notes, W3schools, and more importantly your team!
+# be sure to name your file teamStudyActivity.py
 
 # 1. Farm animal function
 # Create a function that will count and return the number of limbs for any given anmial.
