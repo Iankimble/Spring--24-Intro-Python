@@ -4,7 +4,7 @@
 # Once you have comepleted your quiz, commit and sync your work to your GitHub. 
 
 #RULES
-# This quiz is open book; you may use your notes and W3schools only. Any other website
+# This quiz is open book; you may use your notes, google (only if you are viewing arcticles about python), W3schools only. Any other website
 # is prohibitied.
 # No phones are allowed during the quiz. refusal to put away a phone will result in failure.
 # There is no talking during the quiz. If you complete the quiz, notify the instructor that you
