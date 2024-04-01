@@ -16,7 +16,7 @@
 # Questions
 
 #1. Search and find the latest (most recent) household income data 
-# for a black households compared to a white households and write down what you have found.
+# for black households compared to white households and write down what you have found.
 # What is the wealth disparity between the two groups? How does this make you feel?
 
 #2.  Research and define in your own words what red lining is?
