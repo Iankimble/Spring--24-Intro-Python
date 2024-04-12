@@ -1,3 +1,94 @@
+# For Loop - Is a loop that iteates over a collection of data.
+# data can be lists [] and strings.
+
+# While Loop - Is a block of code that repeats itself so long
+# as a condition is true. 
+
+# For Loop - grades; caluclating class GPA. 
+
+# We need to add up all the grades and then divide 
+# to get the average.
+
+def gpa():
+    listOfGrades = [100, 90, 70, 50, 80, 80, 70, 0, 0] 
+    totalScore = 0 # add up all the grades and place in here.  
+    for grade in listOfGrades:
+        totalScore += grade 
+        print(grade) 
+        print(f'this is the total score: {totalScore}')
+        numberOfGrades = len(listOfGrades)
+        gpa = totalScore / numberOfGrades
+        print(f'This is the class GPA: {gpa}')
+# gpa()
+
+# While Loop - merchandise; checking the quantity of an item. 
+
+def baseballGlove_inventory():
+    baseballGlove_sm = 0
+    baseballGlove_sm_special_Edition= 3
+    baseballGlove_md = 1
+    baseballGlove_md_special_Edition= 3
+    baseballGlove_lg = 0
+    baseballGlove_total = baseballGlove_sm + baseballGlove_md + baseballGlove_lg
+   
+    while baseballGlove_total != 0:
+        userCart = input('What size glove would you like to buy? ')
+        if userCart == 'sm':
+            baseballGlove_sm -= 1
+            print(f'small baseball glove inventory: {baseballGlove_sm}')
+            if baseballGlove_sm == 0:
+                print('small gloves are out of stock.')
+        if userCart == 'md':
+            baseballGlove_md -= 1
+            print(f'medium baseball glove inventory: {baseballGlove_md}')
+            if baseballGlove_md == 0:
+                print('medium gloves are out of stock.')
+        if userCart == 'lg':
+            baseballGlove_lg -= 1
+            print(f'large baseball glove inventory: {baseballGlove_lg}')
+            if baseballGlove_lg == 0:
+                print('large gloves are out of stock.')
+        else:
+            print('We are completely out of stock. ')
+            break
+
+# baseballGlove_inventory()
+
+# Create a loop that runs from 1-20, and 
+# will print only when it lands
+# on an even number
+
+i = 0
+while i < 20: # so long as this is true.
+    i += 1
+    if i % 2 == 0:
+        print(f'this is even: {i}') 
+        continue
+    print(i)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # While Loop - repeats a block of code instructions, so long
 # as a condition is true. 
 
@@ -57,7 +148,7 @@ def twitterTextPost():
             tweets.append(newEntry)
             print(tweets)
             
-twitterTextPost()
+#twitterTextPost()
 
 
 
