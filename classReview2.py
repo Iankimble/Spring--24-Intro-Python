@@ -30,11 +30,10 @@ studentAbsent = ['Amari']
 
 # if/ elif/ else- Conditional statements
 
-
 def calculation():
     return 2*10
 
-#print(calculation())
+# print(calculation())
 
 def mydata ():
     val1= 10 + 10

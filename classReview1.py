@@ -15,16 +15,10 @@ def myFunction():
     print('here are my instructions ...')
 
 # this is how you write a function  in JavaScript. 
-function myFunction(){
-    console.log("here are my instuctions ...")
- }
+def myFunction():
+    # console.log("here are my instuctions ...")
+ 
 # this is how you write a function  in Java. 
-public class myMethod {
-    static void myFunction(){
-        system.out.prntln('Here are my instructions...')
-    }
-}
-
 # 4. Data Type - The basic building 
 # blocks for a programming language.
 # basically our programming languages' alphabet.
