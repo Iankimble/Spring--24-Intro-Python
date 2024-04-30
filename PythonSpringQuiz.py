@@ -1,3 +1,17 @@
+# Quiz rules:
+
+# This quiz is open book/ open note: you may use class notes, notes from the instructor github, w3schools.com as well as google to search for relevant articles
+# You MAY NOT use chatgpt or any AI software for this quiz. Any usage of AI tools will result in an automatic failure.
+
+# No phones are allowed during the quiz. Failure to put your phone away will result in an automatic failure.
+
+# There is no talking during the quiz. 
+
+# You will have the entire class period to complete the quiz. 
+
+# To recieve full credit please show your work by providng clues, keywords, and notes you wrote down to solve
+# the problem.  
+
 # 1. What is a while loop, what is a for loop, and what is the difference between the two.
 # Please write your response using complete sentences. 
 
