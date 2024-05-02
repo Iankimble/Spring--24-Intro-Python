@@ -19,4 +19,11 @@
 # depending on the time it will, go into focus mode. - loop over time
 # when in focus mode, certain functions cannot be used. - set time intervals
 
+# K-box app - play games on the go
+# program should show games available to play
+# users can select between 3 games 
+# tik-tak-toe mini game
+# guessing mini game
+# mystery mini game
 
+# welcome - 
