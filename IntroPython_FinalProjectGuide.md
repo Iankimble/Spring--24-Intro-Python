@@ -8,6 +8,16 @@ to accomplish it's task and should also use a combnitation of data types, operat
 Your project start date will be : 5/3/2024
 Your project due date is : 5/17/2024
 
+## Steps 
+Ask - What problem are you trying to solve?
+Research - What tools and resources can you use to help you build your program?
+Imagine - Based on the research you've done, determine exactly what you want to build. 
+Plan - Create wire frames and a development plan for creating your program.
+Create - Use your development plan and your resources to begin coding your program
+Test - Test out your code, work out the errors. 
+Improve - Are there things you can add to your program to make function even better.  
+
+
 <b>The design and development of your project will have three phases: design, development, presentation</b>
 
 ## Phase 1- Design
@@ -27,7 +37,7 @@ You will start writing the code to get your program to work. Your program will n
 Your finished program should not have any errors and should run efficiently. Once you've completed your app
 commit and push your work to your class github repository. If you are working in a group make sure that
 all of the contributors names are on the python file. This will need to be completed and submitted no 
-later than 5/17/2024 by 11:59 pm.
+later than 5/17/2024 by 11:59 pm. Name your project FinalPython.py
 
 
 ## Phase 3- Presentation
@@ -37,4 +47,4 @@ During your presentation you will need to do the following:
 - Introduce your project/ program- tell the class what your project is about, why you made it, and who your project is for.
 - Demonstrate your working program- showcase to the class your working program, walkthrough how your program works step by step.
 - Fielding questions - you will need to answer questions from the instructors and your peers on the 
-design and development of your program. 
+design and development of your program.   
