@@ -9,13 +9,13 @@ Your project start date will be : 5/3/2024
 Your project due date is : 5/17/2024
 
 ## Steps 
-Ask - What problem are you trying to solve?
-Research - What tools and resources can you use to help you build your program?
-Imagine - Based on the research you've done, determine exactly what you want to build. 
-Plan - Create wire frames and a development plan for creating your program.
-Create - Use your development plan and your resources to begin coding your program
-Test - Test out your code, work out the errors. 
-Improve - Are there things you can add to your program to make function even better.  
+- Ask - What problem are you trying to solve?
+- Research - What tools and resources can you use to help you build your program?
+- Imagine - Based on the research you've done, determine exactly what you want to build. 
+- Plan - Create wire frames and a development plan for creating your program.
+- Create - Use your development plan and your resources to begin coding your program
+- Test - Test out your code, work out the errors. 
+- Improve - Are there things you can add to your program to make function even better.  
 
 
 <b>The design and development of your project will have three phases: design, development, presentation</b>
